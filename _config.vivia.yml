@@ -51,7 +51,7 @@ categories:
 # Third-party comment system
 comment:
   valine:
-    enable: false         # Enable Valine comment system
+    enable: true         # Enable Valine comment system
     appId: hE5ngIS3BawNP7P5EcnCtZ3a-MdYXbMMI
     appKey: N2feG2ar3onW4LwXHUqaTjG5
     region: us
