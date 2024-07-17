@@ -51,10 +51,9 @@ categories:
 # Third-party comment system
 comment:
   valine:
-    enable: true         # Enable Valine comment system
-    appId: hE5ngIS3BawNP7P5EcnCtZ3a-MdYXbMMI
-    appKey: N2feG2ar3onW4LwXHUqaTjG5
-    region: us
+    enable: false         # Enable Valine comment system
+    appId:
+    appKey:
     placeholder: Just go go
     pageSize: 10
     highlight: true
